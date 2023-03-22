@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestAssignmentSenseCapitalWeb", "TestAssignmentSenseCapitalWeb\TestAssignmentSenseCapitalWeb.csproj", "{F0854E71-9055-428F-8FD2-25B07757E81B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestAssignmentSenseCapitalModels", "TestAssignmentSenseCapitalModels\TestAssignmentSenseCapitalModels.csproj", "{7401FC69-AB27-447F-95F6-738E04561B37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utils", "Utils\Utils.csproj", "{F7C5B71E-BB5F-4201-BAEC-13AA98CE2903}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0854E71-9055-428F-8FD2-25B07757E81B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0854E71-9055-428F-8FD2-25B07757E81B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0854E71-9055-428F-8FD2-25B07757E81B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0854E71-9055-428F-8FD2-25B07757E81B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7401FC69-AB27-447F-95F6-738E04561B37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7401FC69-AB27-447F-95F6-738E04561B37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7401FC69-AB27-447F-95F6-738E04561B37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7401FC69-AB27-447F-95F6-738E04561B37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7C5B71E-BB5F-4201-BAEC-13AA98CE2903}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7C5B71E-BB5F-4201-BAEC-13AA98CE2903}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7C5B71E-BB5F-4201-BAEC-13AA98CE2903}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7C5B71E-BB5F-4201-BAEC-13AA98CE2903}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

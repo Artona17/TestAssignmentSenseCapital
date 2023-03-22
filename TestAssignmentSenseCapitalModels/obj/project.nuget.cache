@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "50L4Ujf61r5xf2lajLIghXzaut2XIvvsTWDG31qdETBA4K55dtekZ8DOAkgk1cfVUBMh0HR7QmpIM5Q2jsQMlg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bolvar\\Desktop\\TestAssignmentSenseCapitalWeb\\TestAssignmentSenseCapitalModels\\TestAssignmentSenseCapitalModels.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bolvar\\.nuget\\packages\\microsoft.toolkit.highperformance\\7.1.2\\microsoft.toolkit.highperformance.7.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

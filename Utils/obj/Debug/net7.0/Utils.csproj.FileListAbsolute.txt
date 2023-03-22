@@ -1,0 +1,15 @@
+C:\Users\maste\Рабочий стол\TestAssignmentSenseCapitalWeb\Utils\bin\Debug\net7.0\Utils.deps.json
+C:\Users\maste\Рабочий стол\TestAssignmentSenseCapitalWeb\Utils\bin\Debug\net7.0\Utils.dll
+C:\Users\maste\Рабочий стол\TestAssignmentSenseCapitalWeb\Utils\bin\Debug\net7.0\Utils.pdb
+C:\Users\maste\Рабочий стол\TestAssignmentSenseCapitalWeb\Utils\bin\Debug\net7.0\TestAssignmentSenseCapitalModels.dll
+C:\Users\maste\Рабочий стол\TestAssignmentSenseCapitalWeb\Utils\bin\Debug\net7.0\TestAssignmentSenseCapitalModels.pdb
+C:\Users\maste\Рабочий стол\TestAssignmentSenseCapitalWeb\Utils\obj\Debug\net7.0\Utils.csproj.AssemblyReference.cache
+C:\Users\maste\Рабочий стол\TestAssignmentSenseCapitalWeb\Utils\obj\Debug\net7.0\Utils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maste\Рабочий стол\TestAssignmentSenseCapitalWeb\Utils\obj\Debug\net7.0\Utils.AssemblyInfoInputs.cache
+C:\Users\maste\Рабочий стол\TestAssignmentSenseCapitalWeb\Utils\obj\Debug\net7.0\Utils.AssemblyInfo.cs
+C:\Users\maste\Рабочий стол\TestAssignmentSenseCapitalWeb\Utils\obj\Debug\net7.0\Utils.csproj.CoreCompileInputs.cache
+C:\Users\maste\Рабочий стол\TestAssignmentSenseCapitalWeb\Utils\obj\Debug\net7.0\Utils.csproj.CopyComplete
+C:\Users\maste\Рабочий стол\TestAssignmentSenseCapitalWeb\Utils\obj\Debug\net7.0\Utils.dll
+C:\Users\maste\Рабочий стол\TestAssignmentSenseCapitalWeb\Utils\obj\Debug\net7.0\refint\Utils.dll
+C:\Users\maste\Рабочий стол\TestAssignmentSenseCapitalWeb\Utils\obj\Debug\net7.0\Utils.pdb
+C:\Users\maste\Рабочий стол\TestAssignmentSenseCapitalWeb\Utils\obj\Debug\net7.0\ref\Utils.dll

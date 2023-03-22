@@ -1,0 +1,93 @@
+C:\Users\bolvar\RiderProjects\TestAssignmentSenseCapitalWeb\TestAssignmentSenseCapitalWeb\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\bolvar\RiderProjects\TestAssignmentSenseCapitalWeb\TestAssignmentSenseCapitalWeb\bin\Debug\net7.0\appsettings.json
+C:\Users\bolvar\RiderProjects\TestAssignmentSenseCapitalWeb\TestAssignmentSenseCapitalWeb\bin\Debug\net7.0\TestAssignmentSenseCapitalWeb.exe
+C:\Users\bolvar\RiderProjects\TestAssignmentSenseCapitalWeb\TestAssignmentSenseCapitalWeb\bin\Debug\net7.0\TestAssignmentSenseCapitalWeb.deps.json
+C:\Users\bolvar\RiderProjects\TestAssignmentSenseCapitalWeb\TestAssignmentSenseCapitalWeb\bin\Debug\net7.0\TestAssignmentSenseCapitalWeb.runtimeconfig.json
+C:\Users\bolvar\RiderProjects\TestAssignmentSenseCapitalWeb\TestAssignmentSenseCapitalWeb\bin\Debug\net7.0\TestAssignmentSenseCapitalWeb.dll
+C:\Users\bolvar\RiderProjects\TestAssignmentSenseCapitalWeb\TestAssignmentSenseCapitalWeb\bin\Debug\net7.0\TestAssignmentSenseCapitalWeb.pdb
+C:\Users\bolvar\RiderProjects\TestAssignmentSenseCapitalWeb\TestAssignmentSenseCapitalWeb\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\bolvar\RiderProjects\TestAssignmentSenseCapitalWeb\TestAssignmentSenseCapitalWeb\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\bolvar\RiderProjects\TestAssignmentSenseCapitalWeb\TestAssignmentSenseCapitalWeb\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\bolvar\RiderProjects\TestAssignmentSenseCapitalWeb\TestAssignmentSenseCapitalWeb\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\bolvar\RiderProjects\TestAssignmentSenseCapitalWeb\TestAssignmentSenseCapitalWeb\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\bolvar\RiderProjects\TestAssignmentSenseCapitalWeb\TestAssignmentSenseCapitalWeb\obj\Debug\net7.0\TestAssignmentSenseCapitalWeb.csproj.AssemblyReference.cache
+C:\Users\bolvar\RiderProjects\TestAssignmentSenseCapitalWeb\TestAssignmentSenseCapitalWeb\obj\Debug\net7.0\TestAssignmentSenseCapitalWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bolvar\RiderProjects\TestAssignmentSenseCapitalWeb\TestAssignmentSenseCapitalWeb\obj\Debug\net7.0\TestAssignmentSenseCapitalWeb.AssemblyInfoInputs.cache
+C:\Users\bolvar\RiderProjects\TestAssignmentSenseCapitalWeb\TestAssignmentSenseCapitalWeb\obj\Debug\net7.0\TestAssignmentSenseCapitalWeb.AssemblyInfo.cs
+C:\Users\bolvar\RiderProjects\TestAssignmentSenseCapitalWeb\TestAssignmentSenseCapitalWeb\obj\Debug\net7.0\TestAssignmentSenseCapitalWeb.csproj.CoreCompileInputs.cache
+C:\Users\bolvar\RiderProjects\TestAssignmentSenseCapitalWeb\TestAssignmentSenseCapitalWeb\obj\Debug\net7.0\TestAssignmentSenseCapitalWeb.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\bolvar\RiderProjects\TestAssignmentSenseCapitalWeb\TestAssignmentSenseCapitalWeb\obj\Debug\net7.0\TestAssignmentSenseCapitalWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bolvar\RiderProjects\TestAssignmentSenseCapitalWeb\TestAssignmentSenseCapitalWeb\obj\Debug\net7.0\staticwebassets\msbuild.TestAssignmentSenseCapitalWeb.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\bolvar\RiderProjects\TestAssignmentSenseCapitalWeb\TestAssignmentSenseCapitalWeb\obj\Debug\net7.0\staticwebassets\msbuild.build.TestAssignmentSenseCapitalWeb.props
+C:\Users\bolvar\RiderProjects\TestAssignmentSenseCapitalWeb\TestAssignmentSenseCapitalWeb\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TestAssignmentSenseCapitalWeb.props
+C:\Users\bolvar\RiderProjects\TestAssignmentSenseCapitalWeb\TestAssignmentSenseCapitalWeb\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TestAssignmentSenseCapitalWeb.props
+C:\Users\bolvar\RiderProjects\TestAssignmentSenseCapitalWeb\TestAssignmentSenseCapitalWeb\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\bolvar\RiderProjects\TestAssignmentSenseCapitalWeb\TestAssignmentSenseCapitalWeb\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\bolvar\RiderProjects\TestAssignmentSenseCapitalWeb\TestAssignmentSenseCapitalWeb\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\bolvar\RiderProjects\TestAssignmentSenseCapitalWeb\TestAssignmentSenseCapitalWeb\obj\Debug\net7.0\scopedcss\bundle\TestAssignmentSenseCapitalWeb.styles.css
+C:\Users\bolvar\RiderProjects\TestAssignmentSenseCapitalWeb\TestAssignmentSenseCapitalWeb\obj\Debug\net7.0\TestAssignmentSenseCapitalWeb.csproj.CopyComplete
+C:\Users\bolvar\RiderProjects\TestAssignmentSenseCapitalWeb\TestAssignmentSenseCapitalWeb\obj\Debug\net7.0\TestAssignmentSenseCapitalWeb.dll
+C:\Users\bolvar\RiderProjects\TestAssignmentSenseCapitalWeb\TestAssignmentSenseCapitalWeb\obj\Debug\net7.0\refint\TestAssignmentSenseCapitalWeb.dll
+C:\Users\bolvar\RiderProjects\TestAssignmentSenseCapitalWeb\TestAssignmentSenseCapitalWeb\obj\Debug\net7.0\TestAssignmentSenseCapitalWeb.pdb
+C:\Users\bolvar\RiderProjects\TestAssignmentSenseCapitalWeb\TestAssignmentSenseCapitalWeb\obj\Debug\net7.0\TestAssignmentSenseCapitalWeb.genruntimeconfig.cache
+C:\Users\bolvar\RiderProjects\TestAssignmentSenseCapitalWeb\TestAssignmentSenseCapitalWeb\obj\Debug\net7.0\ref\TestAssignmentSenseCapitalWeb.dll
+C:\Users\bolvar\RiderProjects\TestAssignmentSenseCapitalWeb\TestAssignmentSenseCapitalWeb\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\bolvar\RiderProjects\TestAssignmentSenseCapitalWeb\TestAssignmentSenseCapitalWeb\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\bolvar\RiderProjects\TestAssignmentSenseCapitalWeb\TestAssignmentSenseCapitalWeb\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\bolvar\RiderProjects\TestAssignmentSenseCapitalWeb\TestAssignmentSenseCapitalWeb\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\bolvar\RiderProjects\TestAssignmentSenseCapitalWeb\TestAssignmentSenseCapitalWeb\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\bolvar\RiderProjects\TestAssignmentSenseCapitalWeb\TestAssignmentSenseCapitalWeb\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\bolvar\RiderProjects\TestAssignmentSenseCapitalWeb\TestAssignmentSenseCapitalWeb\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\bolvar\RiderProjects\TestAssignmentSenseCapitalWeb\TestAssignmentSenseCapitalWeb\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\Users\bolvar\RiderProjects\TestAssignmentSenseCapitalWeb\TestAssignmentSenseCapitalWeb\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\bolvar\RiderProjects\TestAssignmentSenseCapitalWeb\TestAssignmentSenseCapitalWeb\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\bolvar\RiderProjects\TestAssignmentSenseCapitalWeb\TestAssignmentSenseCapitalWeb\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\maste\Рабочий стол\TestAssignmentSenseCapitalWeb\TestAssignmentSenseCapitalWeb\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\maste\Рабочий стол\TestAssignmentSenseCapitalWeb\TestAssignmentSenseCapitalWeb\bin\Debug\net7.0\appsettings.json
+C:\Users\maste\Рабочий стол\TestAssignmentSenseCapitalWeb\TestAssignmentSenseCapitalWeb\bin\Debug\net7.0\TestAssignmentSenseCapitalWeb.exe
+C:\Users\maste\Рабочий стол\TestAssignmentSenseCapitalWeb\TestAssignmentSenseCapitalWeb\bin\Debug\net7.0\TestAssignmentSenseCapitalWeb.deps.json
+C:\Users\maste\Рабочий стол\TestAssignmentSenseCapitalWeb\TestAssignmentSenseCapitalWeb\bin\Debug\net7.0\TestAssignmentSenseCapitalWeb.runtimeconfig.json
+C:\Users\maste\Рабочий стол\TestAssignmentSenseCapitalWeb\TestAssignmentSenseCapitalWeb\bin\Debug\net7.0\TestAssignmentSenseCapitalWeb.dll
+C:\Users\maste\Рабочий стол\TestAssignmentSenseCapitalWeb\TestAssignmentSenseCapitalWeb\bin\Debug\net7.0\TestAssignmentSenseCapitalWeb.pdb
+C:\Users\maste\Рабочий стол\TestAssignmentSenseCapitalWeb\TestAssignmentSenseCapitalWeb\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\maste\Рабочий стол\TestAssignmentSenseCapitalWeb\TestAssignmentSenseCapitalWeb\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\maste\Рабочий стол\TestAssignmentSenseCapitalWeb\TestAssignmentSenseCapitalWeb\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\maste\Рабочий стол\TestAssignmentSenseCapitalWeb\TestAssignmentSenseCapitalWeb\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\maste\Рабочий стол\TestAssignmentSenseCapitalWeb\TestAssignmentSenseCapitalWeb\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\maste\Рабочий стол\TestAssignmentSenseCapitalWeb\TestAssignmentSenseCapitalWeb\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\maste\Рабочий стол\TestAssignmentSenseCapitalWeb\TestAssignmentSenseCapitalWeb\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\maste\Рабочий стол\TestAssignmentSenseCapitalWeb\TestAssignmentSenseCapitalWeb\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\maste\Рабочий стол\TestAssignmentSenseCapitalWeb\TestAssignmentSenseCapitalWeb\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\Users\maste\Рабочий стол\TestAssignmentSenseCapitalWeb\TestAssignmentSenseCapitalWeb\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\maste\Рабочий стол\TestAssignmentSenseCapitalWeb\TestAssignmentSenseCapitalWeb\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\maste\Рабочий стол\TestAssignmentSenseCapitalWeb\TestAssignmentSenseCapitalWeb\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\maste\Рабочий стол\TestAssignmentSenseCapitalWeb\TestAssignmentSenseCapitalWeb\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\maste\Рабочий стол\TestAssignmentSenseCapitalWeb\TestAssignmentSenseCapitalWeb\bin\Debug\net7.0\Microsoft.Toolkit.HighPerformance.dll
+C:\Users\maste\Рабочий стол\TestAssignmentSenseCapitalWeb\TestAssignmentSenseCapitalWeb\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\maste\Рабочий стол\TestAssignmentSenseCapitalWeb\TestAssignmentSenseCapitalWeb\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\maste\Рабочий стол\TestAssignmentSenseCapitalWeb\TestAssignmentSenseCapitalWeb\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\maste\Рабочий стол\TestAssignmentSenseCapitalWeb\TestAssignmentSenseCapitalWeb\obj\Debug\net7.0\TestAssignmentSenseCapitalWeb.csproj.AssemblyReference.cache
+C:\Users\maste\Рабочий стол\TestAssignmentSenseCapitalWeb\TestAssignmentSenseCapitalWeb\obj\Debug\net7.0\TestAssignmentSenseCapitalWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maste\Рабочий стол\TestAssignmentSenseCapitalWeb\TestAssignmentSenseCapitalWeb\obj\Debug\net7.0\TestAssignmentSenseCapitalWeb.AssemblyInfoInputs.cache
+C:\Users\maste\Рабочий стол\TestAssignmentSenseCapitalWeb\TestAssignmentSenseCapitalWeb\obj\Debug\net7.0\TestAssignmentSenseCapitalWeb.AssemblyInfo.cs
+C:\Users\maste\Рабочий стол\TestAssignmentSenseCapitalWeb\TestAssignmentSenseCapitalWeb\obj\Debug\net7.0\TestAssignmentSenseCapitalWeb.csproj.CoreCompileInputs.cache
+C:\Users\maste\Рабочий стол\TestAssignmentSenseCapitalWeb\TestAssignmentSenseCapitalWeb\obj\Debug\net7.0\TestAssignmentSenseCapitalWeb.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\maste\Рабочий стол\TestAssignmentSenseCapitalWeb\TestAssignmentSenseCapitalWeb\obj\Debug\net7.0\TestAssignmentSenseCapitalWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\maste\Рабочий стол\TestAssignmentSenseCapitalWeb\TestAssignmentSenseCapitalWeb\obj\Debug\net7.0\staticwebassets\msbuild.TestAssignmentSenseCapitalWeb.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\maste\Рабочий стол\TestAssignmentSenseCapitalWeb\TestAssignmentSenseCapitalWeb\obj\Debug\net7.0\staticwebassets\msbuild.build.TestAssignmentSenseCapitalWeb.props
+C:\Users\maste\Рабочий стол\TestAssignmentSenseCapitalWeb\TestAssignmentSenseCapitalWeb\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TestAssignmentSenseCapitalWeb.props
+C:\Users\maste\Рабочий стол\TestAssignmentSenseCapitalWeb\TestAssignmentSenseCapitalWeb\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TestAssignmentSenseCapitalWeb.props
+C:\Users\maste\Рабочий стол\TestAssignmentSenseCapitalWeb\TestAssignmentSenseCapitalWeb\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\maste\Рабочий стол\TestAssignmentSenseCapitalWeb\TestAssignmentSenseCapitalWeb\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\maste\Рабочий стол\TestAssignmentSenseCapitalWeb\TestAssignmentSenseCapitalWeb\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\maste\Рабочий стол\TestAssignmentSenseCapitalWeb\TestAssignmentSenseCapitalWeb\obj\Debug\net7.0\scopedcss\bundle\TestAssignmentSenseCapitalWeb.styles.css
+C:\Users\maste\Рабочий стол\TestAssignmentSenseCapitalWeb\TestAssignmentSenseCapitalWeb\obj\Debug\net7.0\TestAssignmentSenseCapitalWeb.csproj.CopyComplete
+C:\Users\maste\Рабочий стол\TestAssignmentSenseCapitalWeb\TestAssignmentSenseCapitalWeb\obj\Debug\net7.0\TestAssignmentSenseCapitalWeb.dll
+C:\Users\maste\Рабочий стол\TestAssignmentSenseCapitalWeb\TestAssignmentSenseCapitalWeb\obj\Debug\net7.0\refint\TestAssignmentSenseCapitalWeb.dll
+C:\Users\maste\Рабочий стол\TestAssignmentSenseCapitalWeb\TestAssignmentSenseCapitalWeb\obj\Debug\net7.0\TestAssignmentSenseCapitalWeb.pdb
+C:\Users\maste\Рабочий стол\TestAssignmentSenseCapitalWeb\TestAssignmentSenseCapitalWeb\obj\Debug\net7.0\TestAssignmentSenseCapitalWeb.genruntimeconfig.cache
+C:\Users\maste\Рабочий стол\TestAssignmentSenseCapitalWeb\TestAssignmentSenseCapitalWeb\obj\Debug\net7.0\ref\TestAssignmentSenseCapitalWeb.dll
+C:\Users\maste\Рабочий стол\TestAssignmentSenseCapitalWeb\TestAssignmentSenseCapitalWeb\bin\Debug\net7.0\TestAssignmentSenseCapitalModels.dll
+C:\Users\maste\Рабочий стол\TestAssignmentSenseCapitalWeb\TestAssignmentSenseCapitalWeb\bin\Debug\net7.0\Utils.dll
+C:\Users\maste\Рабочий стол\TestAssignmentSenseCapitalWeb\TestAssignmentSenseCapitalWeb\bin\Debug\net7.0\TestAssignmentSenseCapitalModels.pdb
+C:\Users\maste\Рабочий стол\TestAssignmentSenseCapitalWeb\TestAssignmentSenseCapitalWeb\bin\Debug\net7.0\Utils.pdb
